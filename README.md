@@ -12,23 +12,23 @@ Api creators Sorry for using your api..
 
 # 1.Noty plugin
 Get naughty girls random photos(18+)
-(.noty)
+(.noty)<br>
 <a href="https://gist.github.com/missnora07/facf67e531f2854392e5fb6b04a24d01" class="button">Noty plugin</a>
 
 # 2.Anime and Xanime
 Get anime beutifull girls pictures(18+ || only for educational purpose)
-*Anime(.anime):
-<a href="https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54" class="button">Noty plugin</a>
-*Xanime(.xanime):
-<a href="https://gist.github.com/missnora07/86ea2bc4d1d799ce66ab62b7332f9d3b" class="button">Noty plugin</a>
+*Anime(.anime):<br>
+<a href="https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54" class="button">Anime plugin</a>
+*Xanime(.xanime):<br>
+<a href="https://gist.github.com/missnora07/86ea2bc4d1d799ce66ab62b7332f9d3b" class="button">Xanime plugin</a>
 # 3.Getimg
 It will gets Once seen images and videos
-(Tag the photo or video then .getimg)
-<a href="https://gist.github.com/missnora07/54485a666a3cf9518dc60ee3280bfb5f" class="button">Noty plugin</a>
+(Tag the photo or video then .getimg)<br>
+<a href="https://gist.github.com/missnora07/54485a666a3cf9518dc60ee3280bfb5f" class="button">Getimg plugin</a>
 # 4.Hak
 Prank your friends with using this plugin.. 
-(.hak)
-<a href="https://gist.github.com/missnora07/4c3f2af8a95799f485e971c0ba6224de" class="button">Noty plugin</a>
+(.hak)<br>
+<a href="https://gist.github.com/missnora07/4c3f2af8a95799f485e971c0ba6224de" class="button">Hak plugin</a>
 # 5.Wa
-Wa.me link generator
-<a href="https://gist.github.com/missnora07/1bb657d22eaa7325a50255a82a34f84c" class="button">Noty plugin</a>
+Wa.me link generator<br>
+<a href="https://gist.github.com/missnora07/1bb657d22eaa7325a50255a82a34f84c" class="button">Wa plugin</a>
