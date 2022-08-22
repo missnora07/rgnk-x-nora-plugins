@@ -12,7 +12,7 @@ Api creators Sorry for using your api..
 # 1.Noty plugin
 Get naughty girls random photos(18+)
 (.noty)
-https://gist.github.com/missnora07/facf67e531f2854392e5fb6b04a24d01
+>[https://gist.github.com/missnora07/facf67e531f2854392e5fb6b04a24d01]
 
 # 2.Anime and Xanime
 Get anime beutifull girls pictures(18+ || only for educational purpose)
