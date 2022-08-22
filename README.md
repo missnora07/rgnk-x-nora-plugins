@@ -17,9 +17,9 @@ Get naughty girls random photos(18+)
 
 # 2.Anime and Xanime
 Get anime beutifull girls pictures(18+ || only for educational purpose)
-*Anime(.anime):<br>
-<a href="https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54" class="button">Anime plugin</a>
-*Xanime(.xanime):<br>
+*Anime(.anime):
+<a href="https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54" class="button">Anime plugin</a><br>
+*Xanime(.xanime):
 <a href="https://gist.github.com/missnora07/86ea2bc4d1d799ce66ab62b7332f9d3b" class="button">Xanime plugin</a>
 # 3.Getimg
 It will gets Once seen images and videos
