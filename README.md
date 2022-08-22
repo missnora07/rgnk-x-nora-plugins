@@ -13,6 +13,9 @@ Api creators Sorry for using your api..
 # 1.Noty plugin
 Get naughty girls random photos(18+)
 (.noty)
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 >https://gist.github.com/missnora07/facf67e531f2854392e5fb6b04a24d01
 
 # 2.Anime and Xanime
