@@ -31,7 +31,9 @@ Prank your friends with using this plugin..
 >https://gist.github.com/missnora07/4c3f2af8a95799f485e971c0ba6224de
 # 5.Wa
 Wa.me link generator<br>
->https://gist.github.com/missnora07/1bb657d22eaa7325a50255a82a34f84c
-#Xtag
+>https://gist.github.com/missnora07/1bb657d22eaa7325a50255a82a34f84c<br>
+
+# 6.Xtag
+
 Tag a message using jid.
 >https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
