@@ -4,8 +4,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/19479004376?text=*_FromGithub🌿_*)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amru___th_)
-[![Instagram](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
-
 
 * My all plugin credits not mine...
 Some plugins i have created with using others api.. 
@@ -56,4 +54,5 @@ Tag a message using jid.(.xtag groupjid)
 ```sh
 https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
 ```
-###### Working Plugins Will Uploaded Here... 
+###### All Plugins Will Uploaded Here... 
+[![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
