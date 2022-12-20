@@ -3,7 +3,7 @@
 
 CONTACT:
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send19479004376?phone=&text=FromGithub🌿)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/19479004376?text=FromGithub🌿)
 
 
 My all plugin credits not mine... 
