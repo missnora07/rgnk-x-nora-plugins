@@ -1,6 +1,11 @@
 # Nora-Sechi Plugins List for Raganork-md
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YUxlP0tXVD4Ljz9zgnje-PJ9NzI4o40O7A&usqp=CAU)
 
+CONTACT:
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send19479004376?phone=&text=From Github🌿)
+
+
 My all plugin credits not mine... 
 Some plugins I have created with using others plugins api.. 
 So. 
