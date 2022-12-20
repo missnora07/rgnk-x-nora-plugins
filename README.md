@@ -5,14 +5,14 @@ CONTACT:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/19479004376?text=*_FromGithub🌿_*)
 
 
-My all plugin credits not mine...
+* My all plugin credits not mine...
 Some plugins i have created with using others api.. 
-So api creators Sorry for using your api.. 
+So api creators Sorry for using your api..
 
 ###### Installation : ``` .install {pluginurl}```
 
 <!-- PLUGIN LIST-->
-### 1.Noty plugin
+### 1.Noty
 Get naughty girls random photos(18+)
 (.noty)<br>
 ```sh
@@ -20,13 +20,13 @@ https://gist.github.com/missnora07/facf67e531f2854392e5fb6b04a24d01
 ```
 ### 2.Anime and Xanime
 Get anime beutifull girls pictures(18+ || only for educational purpose)
-##### Anime(.anime):<br>
+* ##### Anime(.anime):<br>
 ```sh
 https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54
 ```
 <br>
 
-##### Xanime(.xanime):<br>
+* ###### Xanime(.xanime):<br>
 ```sh
 https://gist.github.com/missnora07/86ea2bc4d1d799ce66ab62b7332f9d3b
 ```
@@ -54,3 +54,4 @@ Tag a message using jid.(.xtag groupjid)
 ```sh
 https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
 ```
+###### Working Plugins Will Uploaded Here... 
