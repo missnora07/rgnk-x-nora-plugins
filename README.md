@@ -60,7 +60,7 @@ Set wish or alarm in a chat(format:.Alarm 22:00,Happy Birthday)
 https://gist.github.com/missnora07/28839af4853c9cad5a8fc21f2c2873ed
 ```
 ### 8.Thumb
-Add thumbnail in a photo( {reply to a image} .thumb thumbnail_url)
+Add thumbnail in a image/video( {reply to a image/video} .thumb thumbnail_image_url)
 ```sh
 https://gist.github.com/missnora07/5cfc9711a0f79bf41cf46c67c1d193f3
 ```
