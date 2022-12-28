@@ -19,7 +19,7 @@ Get naughty girls random photos(18+)
 https://gist.github.com/missnora07/facf67e531f2854392e5fb6b04a24d01
 ```
 ### 2.Anime and Xanime
-Get anime beutifull girls pictures(18+ || only for educational purpose)
+Get anime pictures(18+ only.For educational purpose)
 * ##### Anime(.anime):<br>
 ```sh
 https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54
