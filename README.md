@@ -54,5 +54,16 @@ Tag a message using jid.(.xtag groupjid)
 ```sh
 https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
 ```
+### 7.Alarm
+Set wish or alarm in a chat(format:.Alarm 22:00,Happy Birthday)
+```sh
+https://gist.github.com/missnora07/28839af4853c9cad5a8fc21f2c2873ed
+```
+### 8.Thumb
+Add thumbnail in a photo( {reply to a image} .thumb thumbnail_url)
+```sh
+https://gist.github.com/missnora07/5cfc9711a0f79bf41cf46c67c1d193f3
+```
+
 ###### All Plugins Will Uploaded Here... 
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
