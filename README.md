@@ -54,8 +54,8 @@ Tag a message using jid.(.xtag groupjid)
 ```sh
 https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
 ```
-### 7.Alarm
-Set wish or alarm in a chat(format:.Alarm 22:00,Happy Birthday)
+### 7.Wish
+Set wish or alarm in a chat(format:.wish 22:00,Happy Birthday)
 ```sh
 https://gist.github.com/missnora07/28839af4853c9cad5a8fc21f2c2873ed
 ```
