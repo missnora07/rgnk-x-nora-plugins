@@ -67,7 +67,7 @@ https://gist.github.com/missnora07/5cfc9711a0f79bf41cf46c67c1d193f3
 ### 9.Love Calculator - Based on the api
 Calculate your love percentage
 ```sh
-https://gist.githubusercontent.com/missnora07/b757d60d6c6d4a918e0413ec5940155a/raw
+https://gist.githubusercontent.com/missnora07/b757d60d6c6d4a918e0413ec5940155a
 ```
 
 ###### All Plugins Will Uploaded Here... 
