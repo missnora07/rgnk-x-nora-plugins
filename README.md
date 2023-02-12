@@ -67,13 +67,13 @@ https://gist.github.com/missnora07/5cfc9711a0f79bf41cf46c67c1d193f3
 ### 9.Love Calculator - Based on the api
 Calculate your love percentage using .lc  name,name
 ```sh
-https://gist.githubusercontent.com/missnora07/b757d60d6c6d4a918e0413ec5940155a
+https://gist.github.com/missnora07/b757d60d6c6d4a918e0413ec5940155a
 ```
 ### 10.Cat and Dog random stickers for wa
 Get Cat stickers using  .catstick
 Get Dog stickers using  .dogstick
 ```sh
-https://gist.githubusercontent.com/missnora07/ae4825a6a2eb6c4d739044641c185fa8
+https://gist.github.com/missnora07/ae4825a6a2eb6c4d739044641c185fa8
 ```
 ### 11.Mention - mention yourself (works in personal chat)
 Mention in personal chat and group chat(yourself)
