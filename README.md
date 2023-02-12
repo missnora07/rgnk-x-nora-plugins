@@ -64,24 +64,26 @@ Add thumbnail in a image/video( {reply to a image/video} .thumb thumbnail_image_
 ```sh
 https://gist.github.com/missnora07/5cfc9711a0f79bf41cf46c67c1d193f3
 ```
-### 9.Love Calculator - Based on the api
-Calculate your love percentage using .lc  name,name
+### 9.Love Calculator - Based on the api💕
+Calculate your love percentage using .lc name,name
 ```sh
 https://gist.github.com/missnora07/b757d60d6c6d4a918e0413ec5940155a
 ```
-### 10.Cat and Dog random stickers for wa
+### 10.Cats and Dogs random stickers for wa
 Get Cat stickers using  .catstick
 Get Dog stickers using  .dogstick
 ```sh
 https://gist.github.com/missnora07/ae4825a6a2eb6c4d739044641c185fa8
 ```
 ### 11.Mention - mention yourself (works in personal chat)
-Mention in personal chat and group chat(yourself)
+Mention in personal chat and group chat(yourself) using  .surl
 ```sh
 https://gist.github.com/missnora07/d9f8f928c576a1cae801ce36dfac9b01
 ```
-
-
-
+### 12.Short URL
+Short a URL using  .surl
+```sh
+https://gist.githubusercontent.com/missnora07/d445a2cfed670b3c7b0c03954e25cd92/raw
+```
 ###### All Plugins Will Uploaded Here... 
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
