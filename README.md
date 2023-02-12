@@ -83,7 +83,7 @@ https://gist.github.com/missnora07/d9f8f928c576a1cae801ce36dfac9b01
 ### 12.Short URL
 Short a URL using  .surl
 ```sh
-https://gist.githubusercontent.com/missnora07/d445a2cfed670b3c7b0c03954e25cd92/raw
+https://gist.github.com/missnora07/d445a2cfed670b3c7b0c03954e25cd92
 ```
 ###### All Plugins Will Uploaded Here... 
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
