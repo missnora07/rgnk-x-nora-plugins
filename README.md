@@ -75,6 +75,12 @@ Get Dog stickers using  .dogstick
 ```sh
 https://gist.githubusercontent.com/missnora07/ae4825a6a2eb6c4d739044641c185fa8
 ```
+### 11.Mention - mention yourself (works in personal chat)
+Mention in personal chat and group chat(yourself)
+```sh
+https://gist.github.com/missnora07/d9f8f928c576a1cae801ce36dfac9b01
+```
+
 
 
 ###### All Plugins Will Uploaded Here... 
