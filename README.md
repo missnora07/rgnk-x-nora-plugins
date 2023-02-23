@@ -8,11 +8,11 @@
 ###### Installation : ``` .install {pluginurl}```
 
 <!-- PLUGIN LIST-->
-### 1.Noty
-Get naughty girls random photos(18+)
-(.noty)<br>
+### 1.ModApk
+Download Apk/Modapk/OBB
+(.apk turbo racing 3d)<br>
 ```sh
-https://gist.github.com/missnora07/facf67e531f2854392e5fb6b04a24d01
+https://gist.github.com/missnora07/c010456f39c94930b66f39fb5bb9a802
 ```
 ### 2.Anime and Xanime
 Get anime pictures(18+ only.For educational purpose)
