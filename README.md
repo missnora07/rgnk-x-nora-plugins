@@ -15,7 +15,7 @@ Download Apk/Modapk/OBB
 https://gist.github.com/missnora07/c010456f39c94930b66f39fb5bb9a802
 ```
 ### 2.Anime and Xanime
-Get anime pictures(18+ only.For educational purpose)
+Get anime pictures(Warning! NSFW Content)
 * ##### Anime(.anime):<br>
 ```sh
 https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54
@@ -39,7 +39,7 @@ https://gist.github.com/missnora07/1bb657d22eaa7325a50255a82a34f84c
 ```
 <br>
 
-### 5.Xtag - without using tag in group
+### 5.Xtag - tag without using tag cmd in group
 Tag a message using jid.(.xtag groupjid)
 ```sh
 https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
@@ -71,5 +71,16 @@ Short a URL using  .surl
 ```sh
 https://gist.github.com/missnora07/d445a2cfed670b3c7b0c03954e25cd92
 ```
+### 11.HssLive
+Get notes from hsslive.in using .hsslive notename
+```sh
+https://gist.github.com/missnora07/6bf0254d1b0b05cc2508de3da4e0fe52
+```
+### 12.Ai
+Get AI created images(by open ai) with word using .ai a moon inside a glass
+```sh
+https://gist.github.com/missnora07/bc50da6b1b19de520092f897f017174f
+```
+
 ###### All Plugins Will Uploaded Here... 
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
