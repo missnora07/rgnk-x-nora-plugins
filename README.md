@@ -5,9 +5,6 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/19479004376?text=*_FromGithub🌿_*)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amru___th_)
 
-* All plugin credits not mine...
-Some plugins i have created with using others api.. 
-
 ###### Installation : ``` .install {pluginurl}```
 
 <!-- PLUGIN LIST-->
