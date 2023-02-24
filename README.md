@@ -2,7 +2,7 @@
 #### Nora-Sechi Plugins List for Raganork-md
 ###### CONTACT:
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/19479004376?text=*_FromGithub🌿_*)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/17094007982?text=*_From+Github🌿_*)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amru___th_)
 
 ###### Installation : ``` .install {pluginurl}```
