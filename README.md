@@ -10,12 +10,18 @@
 ### 1.ModApk
 Download Apk/Modapk/OBB
 (.apk turbo racing 3d)<br>
+* ###### V1
 ```sh
 https://gist.github.com/missnora07/c010456f39c94930b66f39fb5bb9a802
 ```
+* ###### V2
+To download only under 30MB files in whatsapp(Bot will not resarts by clicking bigsize files using this version) 
+```
+https://gist.github.com/missnora07/7981ba734fe82575d5f3c802c3d8948a
+```
 ### 2.Anime and Xanime
 Get anime pictures(Warning! NSFW Content)
-* ##### Anime(.anime):<br>
+* ###### Anime(.anime):<br>
 ```sh
 https://gist.github.com/missnora07/aafc422bca3f4097b4ce444ecdd66e54
 ```
