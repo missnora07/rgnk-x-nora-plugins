@@ -15,7 +15,7 @@ Download Apk/Modapk/OBB
 https://gist.github.com/missnora07/c010456f39c94930b66f39fb5bb9a802
 ```
 * ###### V2
-To download only under 30MB files in whatsapp(Bot will not resarts by clicking bigsize files using this version) 
+To download only under 30MB files in whatsapp(Bot will not restarts by clicking bigsize files using this version) 
 ```
 https://gist.github.com/missnora07/7981ba734fe82575d5f3c802c3d8948a
 ```
