@@ -11,7 +11,7 @@
 Download Apk/Modapk/OBB
 (.apk turbo racing 3d)<br>
 ```
-https://gist.github.com/missnora07/7981ba734fe82575d5f3c802c3d8948a
+https://gist.github.com/missnora07/187a5c36ef802e0a961ce1f45bf472e9
 ```
 ### 2.Wame
 Wa.me link generator.(.wame)<br>
