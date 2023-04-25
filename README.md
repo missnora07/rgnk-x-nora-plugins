@@ -3,7 +3,7 @@
 ###### CONTACT:
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/17732956880?text=*_From+Github🌿_*)
-###### You can give ideas for plugins... 
+###### You can suggest ideas for plugins... 
 
 ###### Installation : ``` .install {pluginurl}```
 
