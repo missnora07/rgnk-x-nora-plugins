@@ -2,7 +2,8 @@
 #### Nora-Sechi Plugins List for Raganork-md
 ###### CONTACT:
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/17094007982?text=*_From+Github🌿_*)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/17732956880?text=*_From+Github🌿_*)
+####### You can give ideas for plugins... 
 
 ###### Installation : ``` .install {pluginurl}```
 
@@ -61,6 +62,11 @@ https://gist.github.com/missnora07/6bf0254d1b0b05cc2508de3da4e0fe52
 Get AI created images with word(by open ai) using .ai a moon inside a glass
 ```sh
 https://gist.github.com/missnora07/bc50da6b1b19de520092f897f017174f
+```
+### 11.Image to Text
+Extract text from images
+```sh
+https://gist.github.com/missnora07/e3fca3982d233d2bb99a96113910a423
 ```
 
 ###### All Plugins Will Uploaded Here... 
