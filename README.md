@@ -47,23 +47,17 @@ Get Dog stickers using  .dogstick
 ```sh
 https://gist.github.com/missnora07/ae4825a6a2eb6c4d739044641c185fa8
 ```
-
-### 8.Short URL
-Short a URL using  .surl
-```sh
-https://gist.github.com/missnora07/d445a2cfed670b3c7b0c03954e25cd92
-```
-### 9.HssLive
+### 8.HssLive
 Get notes from hsslive.in using .hsslive notename
 ```sh
 https://gist.github.com/missnora07/6bf0254d1b0b05cc2508de3da4e0fe52
 ```
-### 10.AI
+### 9.AI
 Get AI created images with word(by open ai) using .ai a moon inside a glass
 ```sh
 https://gist.github.com/missnora07/bc50da6b1b19de520092f897f017174f
 ```
-### 11.Image to Text
+### 10.Image to Text
 Extract text from images
 ```sh
 https://gist.github.com/missnora07/e3fca3982d233d2bb99a96113910a423
