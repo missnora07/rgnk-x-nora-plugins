@@ -62,6 +62,15 @@ Extract text from images
 ```sh
 https://gist.github.com/missnora07/e3fca3982d233d2bb99a96113910a423
 ```
+### 11.Ujids
+
+Get all members jid from groups
+
+```sh
+
+https://gist.github.com/missnora07/8d5e7061c9bdb9ef7ac82ffec582e515
+
+```
 
 ###### All Plugins Will Uploaded Here... 
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
