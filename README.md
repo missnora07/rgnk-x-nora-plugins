@@ -82,17 +82,6 @@ Text to Pdf converter
 
 https://gist.github.com/missnora07/b2578f467c55420b29132a80b5102de1
 
-```
-### 13.AIMIX🎥
-
-Audio and Video mixer
-
-```sh
-
-https://gist.github.com/missnora07/a8adbdd0d176bc38d879e177fde9d830
-
-```
-
-
+``
 ###### All Plugins Will Uploaded Here... 
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
