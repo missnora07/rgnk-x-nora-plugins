@@ -26,13 +26,15 @@ Tag a message using jid.(.xtag groupjid)
 ```sh
 https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
 ```
-### 4.Wish or Alarm
+### 4.Wish or Alarm⏲️
 Set wish or alarm in a chat(format:.wish 22:00,Happy Birthday)
 ```sh
 https://gist.github.com/missnora07/28839af4853c9cad5a8fc21f2c2873ed
 ```
 ### 5.Thumbnail Changer
-Add thumbnail in a image/video( {reply to a image/video} .thumb thumbnail_image_url)
+Add thumbnail in a image/video
+
+(reply to a image/video) .thumb thumbnail_image_url
 ```sh
 https://gist.github.com/missnora07/5cfc9711a0f79bf41cf46c67c1d193f3
 ```
@@ -41,13 +43,13 @@ Calculate your love percentage using .lc name,name
 ```sh
 https://gist.github.com/missnora07/b757d60d6c6d4a918e0413ec5940155a
 ```
-### 7.Cats and Dogs random stickers for wa
+### 7.Cats and Dogs random stickers
 Get Cat stickers using  .catstick
 Get Dog stickers using  .dogstick
 ```sh
 https://gist.github.com/missnora07/ae4825a6a2eb6c4d739044641c185fa8
 ```
-### 8.HssLive
+### 8.HssLive📓
 Get notes from hsslive.in using .hsslive notename
 ```sh
 https://gist.github.com/missnora07/6bf0254d1b0b05cc2508de3da4e0fe52
@@ -62,9 +64,10 @@ Extract text from images
 ```sh
 https://gist.github.com/missnora07/e3fca3982d233d2bb99a96113910a423
 ```
-### 11.Ujids
+### 11.UJIDS
 
 Get all members jid from groups
+USE:send (.ujids) in group or .ujids groupJid
 
 ```sh
 
@@ -80,7 +83,15 @@ Text to Pdf converter
 https://gist.github.com/missnora07/b2578f467c55420b29132a80b5102de1
 
 ```
+### 13.AIMIX🎥
 
+Audio and Video mixer
+
+```sh
+
+https://gist.github.com/missnora07/a8adbdd0d176bc38d879e177fde9d830
+
+```
 
 
 ###### All Plugins Will Uploaded Here... 
