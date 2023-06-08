@@ -3,7 +3,6 @@
 ###### CONTACT:
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/17732956880?text=*_From+Github🌿_*)
-###### You can suggest ideas for plugins... 
 
 ###### Installation : ``` .install {pluginurl}```
 
@@ -85,4 +84,4 @@ https://gist.github.com/missnora07/b2578f467c55420b29132a80b5102de1
 ```
 ###### All Plugins Will Uploaded Here... 
 
-[![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
+
