@@ -21,10 +21,10 @@ https://gist.github.com/missnora07/1bb657d22eaa7325a50255a82a34f84c
 ```
 <br>
 
-### 3.Xtag - tag without using tag cmd in group
-Tag a message using jid.(.xtag groupjid)
+### 3.Wiki - Wikipedia search
+use : .wiki {query}
 ```sh
-https://gist.github.com/missnora07/584aa848b5cc3cf1419454cdc5b18808
+https://gist.github.com/missnora07/3cc4f5f499396fe54994ddc140ebc143
 ```
 ### 4.Wish or Alarm⏲️
 Set wish or alarm in a chat(format:.wish 22:00,Happy Birthday)
@@ -84,4 +84,5 @@ https://gist.github.com/missnora07/b2578f467c55420b29132a80b5102de1
 
 ``
 ###### All Plugins Will Uploaded Here... 
+
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
