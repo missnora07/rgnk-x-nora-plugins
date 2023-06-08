@@ -82,7 +82,7 @@ Text to Pdf converter
 
 https://gist.github.com/missnora07/b2578f467c55420b29132a80b5102de1
 
-``
+```
 ###### All Plugins Will Uploaded Here... 
 
 [![AllGists](https://gists-readme.yizack.com/api/pin?user=missnora07&id=xtag.js&owner=true)](https://gist.github.com/missnora07)
