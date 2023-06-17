@@ -13,10 +13,11 @@ Download Apk/Modapk/OBB
 ```
 https://gist.github.com/missnora07/187a5c36ef802e0a961ce1f45bf472e9
 ```
-### 2.Wame
-Wa.me link generator.(.wame)<br>
+### 2.vdo
+Whatsapp videoMessage feature like voice messages, 
+use: {reply to Video} .vdo or .vdo jid<br>
 ```sh
-https://gist.github.com/missnora07/1bb657d22eaa7325a50255a82a34f84c
+https://gist.github.com/missnora07/2d1f47540c246faef578ac4a82f7d525
 ```
 <br>
 
