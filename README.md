@@ -87,6 +87,7 @@ https://gist.github.com/missnora07/b61773b376499abfe6e0ea1ef4b3e333/
 ```
 ###### _Can you buy a coffee for me_
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/am1uth)
-[**_Using Api's_**](https://github.com/missnora07/rgnk-x-nora-plugins/wiki/API-LIST)
 
+## _Checkout My Public [**Api's**](https://github.com/missnora07/rgnk-x-nora-plugins/wiki/API-LIST)_
 
+###### With ❤️ By Amruth
