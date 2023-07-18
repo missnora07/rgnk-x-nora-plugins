@@ -90,6 +90,7 @@ Threads post downloader
 https://gist.github.com/missnora07/b61773b376499abfe6e0ea1ef4b3e333/
 ```
 
-###### All Plugins Will Uploaded Here... 
+###### Can you buy a coffee for me
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/am1uth)
 
 
