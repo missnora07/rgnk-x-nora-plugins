@@ -1,7 +1,7 @@
-***AVAILABLE API'S
+## AVAILABLE API'S
 
-****https://am1uth-apis.vercel.app/api/threads
-*****Example
+#### https://am1uth-apis.vercel.app/api/threads
+###### Example
 ```sh
 url=https://www.threads.net/am1uth/t/AbzHsnsn
 Dont add '/?igshid=xxxxx'
