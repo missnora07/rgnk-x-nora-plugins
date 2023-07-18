@@ -89,7 +89,7 @@ Threads post downloader
 ```sh
 https://gist.github.com/missnora07/b61773b376499abfe6e0ea1ef4b3e333/
 ```
-[**Used Api's**](https://github.com/missnora07/rgnk-x-nora-plugins/apis.md)
+[**Used Api's**](https://github.com/missnora07/rgnk-x-nora-plugins/wiki/API-LIST)
 
 ###### Can you buy a coffee for me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/am1uth)
