@@ -95,8 +95,11 @@ _SUDO ONLY👇_
 ```sh
 https://gist.github.com/missnora07/86bdc980fecce91ae88d83f07de24281
 ```
-
-
+### _14.Telegraph - Get Url_
+_Get Video/Image URL_
+```sh
+https://gist.github.com/missnora07/7994aa68f68e4607257f9e44899cce14
+```
 
 
 ###### _Can you buy a coffee for me_
