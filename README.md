@@ -85,6 +85,13 @@ _Threads post Downloader with caption_
 ```sh
 https://gist.github.com/missnora07/b61773b376499abfe6e0ea1ef4b3e333/
 ```
+### _14.Temp Mail - Get temporary mail_
+_Get temporary Email,use command for more info_
+_Use: .tpmail_
+```
+https://gist.github.com/missnora07/a2217359d1249b5b31a6b190a031b06c
+```
+
 ###### _Can you buy a coffee for me_
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/am1uth)
 
