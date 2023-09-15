@@ -105,6 +105,4 @@ https://gist.github.com/missnora07/7994aa68f68e4607257f9e44899cce14
 ###### _Can you buy a coffee for me_
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/am1uth)
 
-## _Checkout My Public [**Api's**](https://github.com/missnora07/rgnk-x-nora-plugins/wiki/API-LIST)_
-
 ###### With ❤️ By Amruth
